@@ -1,0 +1,7 @@
+Django==5.0.2
+users==1.0.dev0
+matplotlib==3.8.3
+reportlab==3.6.12
+Pillow==10.2.0
+django-crispy-forms==2.1
+crispy-bootstrap5==2023.10
